@@ -4,3 +4,15 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+.section1{
+    display: flex;
+    background-color: black;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.header1{
+    font-size: 15px;
+    font-weight: 300;
+}
